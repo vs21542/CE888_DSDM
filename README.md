@@ -13,7 +13,7 @@ Implementation code have following steps:-
 1. Data loading and preprocessing
 2. EDA
 3. Machine learning classification with Random Forest, SVM and Logistic Regression
-4. Comparision of results
+4. Comparision of classifiers results
 
 # Instruction to run the code -
 1. Go to github location - https://github.com/vs21542/CE888_DSDM/blob/main/code/Coupon_Recommendation_Classification.ipynb
